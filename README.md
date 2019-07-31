@@ -8,8 +8,10 @@ I tried to upload here some basic programs, although I ended up having almost 40
 The comments in the programs are in Spanish, sorry for that, as well as for the bad organization of the programs, since it was my first big work. Now I would only have one program for the functions defining the dynamics and the extraction of networks and its features, and other programs taking that functions and applying to take results and Figures. Nevertheless, I think it is interesting to read the PDF and see how the dynamics works in some program.
 
 ## Material
-The programs (.py) for doing the simulation and extract the results for the dynamics, including the phase-state:
+The programs (.py) for doing the simulation and extract the results for the dynamics, including the phase-state. For example:
+
 - CascadeSize_barabasi.py : one of the main programs where the dynamics is performed using a Barabasi-Albert network (scale-free). From here I extract the results in order to plot the cascades size distribution and cumulatives, as well as the cascade sizes in relation with the node's connections.
+
 - Cascade_BA_ROLES.py : main program to perform the same dynamics and doing the analisis of the roles for the networks
 
 The article where I explain in detail (but I little bit briefly, as the maximum lenght of the paper for the subject was 5 pages).
