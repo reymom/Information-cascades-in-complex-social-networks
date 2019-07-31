@@ -1,5 +1,5 @@
 # Information-cascades-in-complex-social-networks
-My first project involving theory of complex systems, back in 2016.
+My first project involving theory of complex systems, back in 2017.
 
 I modeled the spreading of information through a Integrate-and-Fire-like system (as in neurons spiking dynamics) that allows us to reproduce experimental data obtained from Twitter, where it is easy to find the two regimes (calm stage and turbulent one showing large cascades for the propagation of certain tweets) and the phase transition separating them. I do other kinds of analysis using theory of Complex Systems, as I analyze the role of the nodes in the spreading phenomena.
 
