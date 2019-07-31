@@ -1,5 +1,11 @@
 # Information-cascades-in-complex-social-networks
-My first project involving theory of complex systems, back in 2016, where I modeled the spreading of information through a Integrate-and-Fire-like system (as in neurons spiking dynamics) that allows us to reproduce experimental data obtained from Twitter, where it is easy to find the two regimes (calm stage and turbulent one showing large cascades for the propagation of certain tweets) and the phase transition separating them. I do other kinds of analysis using theory of Complex Systems, as I analyze the role of the nodes in the spreading phenomena.
+My first project involving theory of complex systems, back in 2016.
+
+I modeled the spreading of information through a Integrate-and-Fire-like system (as in neurons spiking dynamics) that allows us to reproduce experimental data obtained from Twitter, where it is easy to find the two regimes (calm stage and turbulent one showing large cascades for the propagation of certain tweets) and the phase transition separating them. I do other kinds of analysis using theory of Complex Systems, as I analyze the role of the nodes in the spreading phenomena.
+
+I tried to upload here some basic programs, although I ended up having almost 40, the dynamics is performed in many programs, and many others just open data saved in text and make Figures. Basically, I have programs that performs the algorithm for the dynamics in a random graph (Erdos-Renyi) and others in a scale-free (Barabasi-Albert). Then there are others that extract and analize the roles and relate the dynamics to the individual features of the nodes.
+
+The comments in the programs are in Spanish, sorry for that, as well as for the bad organization of the programs, since it was my first big work. Now I would only have one program for the functions defining the dynamics and the extraction of networks and its features, and other programs taking that functions and applying to take results and Figures. Nevertheless, I think it is interesting to read the PDF and see how the dynamics works in some program.
 
 ## Material
 The programs (.py) for doing the simulation and extract the results for the dynamics, including the phase-state:
