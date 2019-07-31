@@ -14,5 +14,4 @@ The programs (.py) for doing the simulation and extract the results for the dyna
 
 - Cascade_BA_ROLES.py : main program to perform the same dynamics and doing the analisis of the roles for the networks
 
-The article where I explain in detail (but I little bit briefly, as the maximum lenght of the paper for the subject was 5 pages).
-Here you can find all references and understand what I did and its applications to real social networks.
+- TFG-Garcia-Seuma-Ramon.pdf : the paper where I explain in detail (but briefly, as the maximum lenght of the paper for the subject was 5 pages). Here you can find all references and understand what I did and its applications to real social networks.
